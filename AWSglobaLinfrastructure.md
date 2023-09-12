@@ -12,3 +12,14 @@
 - Scalability and elastic: can adjust to changes in capacity requirements, much room for growth
 - Fault tolerant: ability to continue operating even with failed components
 - Minimal downtime, high availability 
+#### Selecting the best region
+- Make sure the services you want to use can be accesible in the region you are choosing
+- 
+
+
+
+
+
+### iii. Questions 
+- What does it mean for a service to be region dependent/independent?
+- 
