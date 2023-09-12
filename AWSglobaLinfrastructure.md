@@ -17,14 +17,15 @@
 - Check compliance requirements (if any) and make sure AWS's compliance rules can run your work
 - As mentioned before, check SLAs and cost, not the same in different regions
 #### Points of Presence (PoP) & Local Zone
-
+ 
 
 ### ii. Quotes
-
+- Section 5.07 mentions, " AWS has the largest global infrastructure footprint of any cloud provider in order to deliver customer’s content through a worldwide network.."
+I found this interesting because AWS is much more widely used than I assumed. The fact that AWS tops Azure and Google Cloud is impressive, I have underestimated AWS. 
 
 ### iii. New Information
 - Data Security and Compliance: anything related to Health Care, Education, Bank & Finance 
-
+- 
 
 ### iv. Questions 
 - What does it mean for a service to be region dependent/independent?
