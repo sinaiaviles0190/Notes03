@@ -17,6 +17,8 @@
 - Check compliance requirements (if any) and make sure AWS's compliance rules can run your work
 - As mentioned before, check SLAs and cost, not the same in different regions
 #### Points of Presence (PoP) & Local Zone
+
+
  
 
 ### ii. Quotes
@@ -25,7 +27,14 @@ I found this interesting because AWS is much more widely used than I assumed. Th
 
 ### iii. New Information
 - Data Security and Compliance: anything related to Health Care, Education, Bank & Finance 
+- Most common data center in US is North Virginia
+- capital expense: payment upfront
+- variable expense: pay as you go
+- One region contains multiple availability zones
+- Edge locations: reach customers
+- within each availability zone there are multiple edge locations
 - 
+
 
 ### iv. Questions 
 - What does it mean for a service to be region dependent/independent?
