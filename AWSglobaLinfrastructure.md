@@ -17,12 +17,13 @@
 - Check SLAs and cost, not the same in different regions
 #### Foundational Services
 - Compute: supports big data processing and research
-  - EC2: resizeable compute capacity
-  - EC2 Auto Scaling: add/remove instances according to your needs
+  examples: EC2, EC2 Scaling, Elastic Container and Elastic Registry
 - Storage: scalable, secure, reliable
-  -
+  examples: Amazon S3 (Simple Storage Server), Elastic Block Store, Elastic File System
 - Databases: use cases and provide speed, reliability, availibility
+  examples: Amazon Relational Database Service (RDS), Amazon Aurora, Amazon Redshift
 - Networking: preformance, global coverage, manageability, availibility
+  examples: Amazon Private Cloud (VPC), Elastic Load Banding, CloudFront, Tranist Gateway
  
 
 ### ii. Quotes
@@ -36,7 +37,3 @@ I found this interesting because AWS is much more widely used than I assumed. Th
 - Edge locations: the data center used to deliver content to users
 - within each availability zone there are multiple edge locations
 - Number of availibility zones is greater than the number of regions
-
-
-### iv. Questions 
-- 
