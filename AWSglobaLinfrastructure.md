@@ -3,7 +3,6 @@
 
 ### i. Key Points
 - AWS Regions are regions where infrastructure is held. The closer you are to a region, the faster the service will be.
-- Important to keep Service Level Agreement (SLA) in mind, for it will vary depending on the region, as will cost. 
 #### What are AWS Availability Zones (AZ) ?
 - AZ is the building that makes up the AWS Region. Having multiple AZ's is beneficial, gives you more back up options just in case an instance fails and you have more resources to use.
 - Endpoints are specific URLs that are entry points for a web service. Helps reduce the latency of applications
@@ -15,27 +14,29 @@
 #### Selecting the best region
 - Make sure the services you want to use can be accesible in the region you are choosing
 - Check compliance requirements (if any) and make sure AWS's compliance rules can run your work
-- As mentioned before, check SLAs and cost, not the same in different regions
-#### Points of Presence (PoP) & Local Zone
-
-
+- Check SLAs and cost, not the same in different regions
+#### Foundational Services
+- Compute: supports big data processing and research
+  - EC2: resizeable compute capacity
+  - EC2 Auto Scaling: add/remove instances according to your needs
+- Storage: scalable, secure, reliable
+  -
+- Databases: use cases and provide speed, reliability, availibility
+- Networking: preformance, global coverage, manageability, availibility
  
 
 ### ii. Quotes
 - Section 5.07 mentions, " AWS has the largest global infrastructure footprint of any cloud provider in order to deliver customer’s content through a worldwide network.."
-I found this interesting because AWS is much more widely used than I assumed. The fact that AWS tops Azure and Google Cloud is impressive, I have underestimated AWS. 
+I found this interesting because AWS is much more widely used than I assumed. The fact that AWS tops Azure and Google Cloud is impressive.
 
 ### iii. New Information
 - Data Security and Compliance: anything related to Health Care, Education, Bank & Finance 
-- Most common data center in US is North Virginia
-- capital expense: payment upfront
-- variable expense: pay as you go
+- Most common data center in US is Northern Virginia
 - One region contains multiple availability zones
-- Edge locations: reach customers
+- Edge locations: the data center used to deliver content to users
 - within each availability zone there are multiple edge locations
-- 
+- Number of availibility zones is greater than the number of regions
 
 
 ### iv. Questions 
-- What does it mean for a service to be region dependent/independent?
 - 
