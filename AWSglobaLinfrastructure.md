@@ -14,12 +14,18 @@
 - Minimal downtime, high availability 
 #### Selecting the best region
 - Make sure the services you want to use can be accesible in the region you are choosing
-- 
+- Check compliance requirements (if any) and make sure AWS's compliance rules can run your work
+- As mentioned before, check SLAs and cost, not the same in different regions
+#### Points of Presence (PoP) & Local Zone
 
 
+### ii. Quotes
 
 
+### iii. New Information
+- Data Security and Compliance: anything related to Health Care, Education, Bank & Finance 
 
-### iii. Questions 
+
+### iv. Questions 
 - What does it mean for a service to be region dependent/independent?
 - 
